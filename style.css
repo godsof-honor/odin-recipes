@@ -1,0 +1,12 @@
+.myrecipes{
+    display: inline-block;
+    text-align: left;
+}
+
+body{
+    text-align: center;
+}
+
+.Ingredients{
+    color: red;
+}
