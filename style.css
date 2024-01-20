@@ -8,7 +8,12 @@ body{
 }
 
 .Ingredients{
-    color: red;
+    color: darkorange;
+    font-weight: bold;
+    height: auto;
+    width: 300px;
+    margin-left: 1080px;
+    padding: 5px;
 }
 
 #main-cover{
@@ -38,5 +43,35 @@ body{
 
 #chicken-cover, #pizza-cover, #lasagna-cover{
     background-color: beige;
+    font-size: 20px;
 }
 
+.pizza-steps{
+    height: auto;
+    width: 600px;
+    padding: 10px;
+    margin-left: 900px;
+    margin-top: -15px;
+}
+
+#lasagna-steps-header{
+    border: 1px olid;
+    height: auto;
+    width: 100px;
+    margin: auto;
+}
+
+.lasagna-steps{
+    border: 1px soid;
+    height: auto;
+    width: 600px;
+    margin-left: 925px;
+    margin-top: -15px;
+}
+
+.chicken-steps{
+    height: auto;
+    width: 550px;
+    margin-left: 960px;
+    margin-top: -20px;
+}
