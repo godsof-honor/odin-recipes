@@ -10,3 +10,33 @@ body{
 .Ingredients{
     color: red;
 }
+
+#main-cover{
+    background-color: beige;
+}
+
+#pizza-link{
+    height: auto;
+    width: 200px;
+    margin-left: 1135px;
+    padding: 10px;
+}
+
+#lasagna-link{
+    height: auto;
+    width: 250px;
+    margin: auto;
+    padding: 10px;
+}
+
+#chicken-link{
+    height: auto;
+    width: 250px;
+    margin: auto;
+    padding: 10px;
+}
+
+#chicken-cover, #pizza-cover, #lasagna-cover{
+    background-color: beige;
+}
+
